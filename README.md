@@ -1,4 +1,4 @@
-![rotating cat](https://tenor.com/view/3d-cat-spin-rotate-tuxedo-gif-27150767)
+
 <h1 align="center">Hi 👋, I'm Pete</h1>
 - 🌱 I’m currently learning **JavaScript, Java**
 
